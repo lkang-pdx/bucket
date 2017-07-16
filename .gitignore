@@ -1,7 +1,6 @@
 .vscode/
 npm-debug.log
 
-app/**/*.js
 app/**/*.map
 hooks/
 lib/
